@@ -23,8 +23,8 @@ Click on the Qr-code to visit [frontendmentor](https://www.frontendmentor.io)
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/mohdwajahat/qr-code-component)
+- Live Site URL: [site URL](https://mohdwajahat.github.io/qr-code-component/)
 
 
 ### Built with
